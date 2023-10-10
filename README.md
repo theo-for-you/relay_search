@@ -2,6 +2,7 @@
 Searching for available Tor relays though the common list 
 
 Using: [onionoo](https://metrics.torproject.org/onionoo.html)
+Alternatives: [Tor Relay Availability Checker](https://github.com/ValdikSS/tor-relay-scanner)
 
 ## How to use
 
