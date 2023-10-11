@@ -9,8 +9,8 @@ Alternatives: [Tor Relay Availability Checker](https://github.com/ValdikSS/tor-r
 
 1. Run script on your PC
 2. Output well be available relays
-2.1. Try again if there's no results
-3. Add to your torrc file `Bridge {ip}`
+- Try again if there's no results
+3. Add to your `torrc` file `Bridge {ip}`
 
 
 ## Blocking methods
